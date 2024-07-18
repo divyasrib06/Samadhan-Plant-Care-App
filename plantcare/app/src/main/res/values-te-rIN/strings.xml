@@ -1,0 +1,312 @@
+<resources>
+    <string name="app_name">Samadhan</string>
+    <string name="prompt_email">మీ ఇమెయిల్ ఐడిని నమోదు చేయండి</string>
+    <string name="prompt_password">మీ పాస్‌వర్డ్‌ను నమోదు చేయండి</string>
+    <string name="register_here">నమోదు చేయి</string>
+    <string name="prompt_fullname">మీ పేరును నమోదు చేయండి</string>
+    <string name="prompt_confirm_password">పాస్‌వర్డ్‌ని నిర్ధారించండి</string>
+    <string name="loading_text_crops">చిన్న విత్తనాల నుండి శక్తివంతమైన చెట్లు పెరుగుతాయి.</string>
+    <string name="demo_text">లోరెమ్ ఇప్సమ్ అనేది ప్రింటింగ్ మరియు టైప్‌సెట్టింగ్ పరిశ్రమ యొక్క డమ్మీ టెక్స్ట్.</string>
+    <string name="forgot_password">మీ ఖాతాతో అనుబంధించబడిన ఇమెయిల్ చిరునామాను నమోదు చేయండి:</string>
+    <string name="tryanother"><u>వేరే ఇమెయిల్‌ని ప్రయత్నించండి</u></string>
+    <!-- వ్యాధిని గుర్తించడం భాగం-->
+    <string name="buttonSelectPhoto">ఫోటోను ఎంచుకోండి</string>
+    <string name="buttonTakePhoto">కెమెరాను ప్రారంభించు</string>
+    <string name="buttonDiagnose">గుర్తించండి</string>
+    <string name="defaultImage">డిఫాల్ట్ చిత్రం ఇప్పుడు సెట్ చేయబడింది...</string>
+    <string name="descriptionImage">చిత్రాన్ని ప్రదర్శించడం కోసం వీక్షించండి</string>
+    <string name="open_gallery">గ్యాలరీని తెరవండి</string>
+    <string name="start_camera">START CAMERA</string>
+    <string name="resultTxt">మీ ఫలితం</string>
+    <string name="detect_txt">మొదట చిత్రాన్ని దిగుమతి చేయండి లేదా క్యాప్చర్ చేయండి \nImageViewలో లోడ్ అయినప్పుడు, మీరు వ్యాధిని గుర్తించడానికి సిద్ధంగా ఉంటారు</string>
+    <string name="detect_txt_2">మొదట చిత్రాన్ని క్యాప్చర్ చేయండి \nImageViewలో లోడ్ అయినప్పుడు, మీరు వ్యాధిని గుర్తించడానికి సిద్ధంగా ఉంటారు</string>
+
+    <string name="available_crops"><b>అందుబాటులో ఉన్న పంటలు:</b> ఆపిల్, బ్లూబెర్రీ, చెర్రీ, మొక్కజొన్న, ద్రాక్ష, నారింజ, పీచు, మిరియాలు, బంగాళాదుంప, టమోటా, కోరిందకాయ మరియు స్ట్రాబెర్రీ</string>
+    <string name="available_crops_by_leaf"><b>అందుబాటులో ఉన్న పంటలు:</b> యాపిల్, బ్లూబెర్రీ, చెర్రీ, మొక్కజొన్న, ద్రాక్ష, పీచు, మిరియాలు, బంగాళదుంప, టొమాటో, కోరిందకాయ, స్ట్రాబెర్రీ, అల్స్టోనియా స్కాలరిస్, అర్జున్, తులసి, చినార్, గౌవా , జామున్, జత్రోఫా, నిమ్మ, మామిడి, దానిమ్మ, మరియు పొంగమియా పిన్నాట</string>
+    <string name="available_flowers"><b>అందుబాటులో ఉన్న పువ్వులు:</b> "పింక్ ప్రింరోస్",
+"హార్డ్-లీవ్డ్ పాకెట్ ఆర్చిడ్",
+"కాంటర్బరీ బెల్స్",
+"తీపి బటాణి",
+"ఇంగ్లీష్ మేరిగోల్డ్",
+"టైగర్ లిల్లీ",
+"మూన్ ఆర్చిడ్",
+"స్వర్గం పక్షి",
+"భిక్షువు",
+"గ్లోబ్ తిస్టిల్",
+"స్నాప్‌డ్రాగన్",
+"కోల్ట్ ఫుట్",
+"కింగ్ ప్రొటీయా",
+"ఈటె తిస్టిల్",
+మరియు మరెన్నో..
+</string>
+
+    <string name="apple_scab"><b>స్కాబ్ రెసిస్టెంట్</b> రకాల యాపిల్ లేదా క్రాబాపిల్ చెట్లను ఎంచుకోండి.\n<b>ఎత్తండి</b> మరియు రాలిన ఆకులు లేదా పండ్లను రోజూ విస్మరించండి మరియు శీతాకాలంలో నేలపై పడిపోయిన ఆకులు లేదా పండ్లను ఎప్పుడూ ఉంచవద్దు. యాపిల్ స్కాబ్ ఫంగస్ పడిపోయిన ఆకులు మరియు పండ్లపై శీతకాలం ఉంటుంది.\nమీ ఆపిల్ మరియు క్రాబాపిల్ చెట్లను వాటి కిరీటాలను తెరిచి ఉంచడానికి వాటిని <b>ప్రూన్</b> చేయండి, తద్వారా తేలికగా మరియు గాలి గుండా వెళుతుంది. పొడి ఆకులు మరియు పండ్లు ప్రారంభ సంక్రమణను నిరోధించడంలో సహాయపడతాయి.\nమీ ఆపిల్ మరియు క్రాబాపిల్ చెట్లను సరిగ్గా, పూర్తి ఎండలో మరియు ప్రతి చెట్టు చుట్టూ తగినంత స్థలంతో వాటి పరిపక్వ పరిమాణానికి అనుగుణంగా వాటిని<b>నాటండి</b>. నీడ నీటిని త్వరగా ఆవిరైపోకుండా చేస్తుంది మరియు రద్దీగా ఉండే చెట్లు ఈ వ్యాధికి ఎక్కువ అవకాశం కలిగి ఉంటాయి.\n<b>నీటిపారుదల</b>ని తెల్లవారుజామున మీ చెట్లకు అందించండి మరియు ఆకులు మరియు పండ్లను తడి చేసే ఓవర్ హెడ్ స్ప్రేలను ఉపయోగించవద్దు. ఎండిన ఆకులు ఫంగస్‌ను హోస్ట్ చేయవు.</string>
+    <string name="apple_black_rot">\nచనిపోయిన లేదా వ్యాధిగ్రస్తులైన కొమ్మలను కత్తిరించండి.\nచెట్లపై మిగిలి ఉన్న అన్ని ఎండిన మరియు ముడుచుకున్న పండ్లను ఎంచుకోండి.\nఈ ప్రాంతం నుండి సోకిన మొక్కల పదార్థాలను తొలగించండి.\nఅన్ని సోకిన మొక్కల భాగాలను కాల్చివేయాలి, పూడ్చివేయాలి లేదా పంపాలి. మునిసిపల్ కంపోస్టింగ్ సైట్.\nమీరు నరికిన ఆపిల్ చెట్ల స్టంప్‌లను తప్పకుండా తొలగించండి. చనిపోయిన స్టంప్‌లు బీజాంశాలకు మూలం కావచ్చు.</string>
+    <string name="cedar_apple_rust">అందుబాటులో ఉన్నప్పుడు నిరోధక సాగును ఎంచుకోండి.\nచెట్ల కింద నుండి పడిపోయిన ఆకులు మరియు ఇతర శిధిలాలను సేకరించి, పారవేయండి.\nసోకిన జునిపర్‌ల నుండి గాల్స్‌ను తొలగించండి. కొన్ని సందర్భాల్లో, జునిపెర్ మొక్కలను పూర్తిగా తొలగించాలి.\nజునిపెర్ హోస్ట్ ద్వారా విడుదలయ్యే బీజాంశం నుండి చెట్లను రక్షించడానికి, మొగ్గలు విరిగిపోవడంతో ప్రారంభించి, ప్రతివారం ఆపిల్‌పై ఉపయోగం కోసం నివారణ, వ్యాధి-నిరోధక శిలీంద్రనాశకాలను వర్తించండి. ఇది సంవత్సరానికి ఒకసారి మాత్రమే జరుగుతుంది, కాబట్టి ఈ వసంతకాలం వ్యాప్తి తర్వాత అదనపు దరఖాస్తులు అవసరం లేదు.\nజునిపర్‌పై, ఆగష్టు చివరిలో కనీసం నాలుగు సార్లు రాగి ద్రావణంతో (0.5 నుండి 2.0 oz/ గాలన్ నీరు) మొక్కలను పిచికారీ చేయడం ద్వారా తుప్పు పట్టడాన్ని నియంత్రించవచ్చు. మరియు అక్టోబర్ చివరలో.</string>
+    <string name="cherry_powdery_mildew">మొదటి నీటిపారుదల తర్వాత 1 వారం తర్వాత మొదటి కాలనీల కోసం వెతకడం ప్రారంభించండి.\nసక్కర్ రెమ్మలను తొలగించి నాశనం చేయండి.\nఆకులను తడి చేయని నీటిపారుదలని ఉపయోగించడం ద్వారా పండు మరియు ఆకులను అభివృద్ధి చేయకుండా నీటిపారుదల నీటిని ఉంచండి. అలాగే, నీటిపారుదల సెట్‌లను వీలైనంత తక్కువగా ఉంచండి.\n కత్తిరింపు వంటి మంచి గాలి ప్రసరణను ప్రోత్సహించే సాంస్కృతిక పద్ధతులను అనుసరించండి మరియు న్యాయమైన నైట్రోజన్ నిర్వహణ ద్వారా మితమైన రెమ్మల పెరుగుదలను అనుసరించండి.</string>
+    <string name="corn_grey_spot">మొక్కజొన్న గ్రే లీఫ్ స్పాట్ నుండి దిగుబడి నష్టాలను తగ్గించడానికి అత్యంత ప్రవీణమైన మరియు ఆర్థిక పద్ధతి నిరోధక మొక్కల రకాలను పరిచయం చేయడం\nఆకు మచ్చలు సంభవించే ప్రదేశాలలో, ఈ పంటలు చివరికి పెరుగుతాయి మరియు ఇప్పటికీ వ్యాధికి నిరోధకతను కలిగి ఉంటాయి. వ్యాధి పూర్తిగా తొలగించబడనప్పటికీ మరియు నిరోధక రకాలు వ్యాధి లక్షణాలను చూపించినప్పటికీ, పెరుగుతున్న సీజన్ చివరిలో, పంట దిగుబడిని తగ్గించడంలో వ్యాధి అంత ప్రభావవంతంగా ఉండదు.\nమొక్కజొన్న కాకుండా ఇతర పంటను నాటినప్పుడు ప్రారంభ ఐనోక్యులమ్ పరిమాణం తగ్గుతుంది. ఇచ్చిన ప్రాంతంలో ≥2 సంవత్సరాలు; అదే సమయంలో సరైన సాగు పద్ధతులు నిర్వహిస్తారు. మొక్కజొన్న లేనప్పుడు శుభ్రమైన దున్నడం మరియు 1-సంవత్సరం పంట భ్రమణం కూడా వ్యాధిని ఎక్కువగా తగ్గించడానికి అనుమతిస్తుంది. సాంప్రదాయిక టిల్లింగ్ వ్యాధిని తగ్గిస్తుంది కానీ ఎక్కువ నేల కోతకు దారితీయవచ్చు</string>
+    <string name="corn_leaf_blight">ఈ వ్యాధి నియంత్రణ తరచుగా నిర్వహణ మరియు నివారణపై దృష్టి పెడుతుంది. ముందుగా, మొక్కజొన్న రకాలు లేదా సంకరజాతులు నిరోధక లేదా కనీసం ఉత్తర మొక్కజొన్న ఆకు ముడతకు మితమైన నిరోధకతను కలిగి ఉంటాయి. మీరు మొక్కజొన్నను పండించినప్పుడు, అది ఎక్కువ కాలం తడిగా ఉండకుండా చూసుకోండి. ఈ ఇన్ఫెక్షన్‌కు కారణమయ్యే ఫంగస్ అభివృద్ధి చెందడానికి ఆరు మరియు 18 గంటల మధ్య ఆకు తడి అవసరం. ఉదయం గాలి ప్రవాహానికి మరియు నీటికి తగినంత స్థలంతో మొక్కజొన్నను నాటండి, తద్వారా ఆకులు రోజంతా ఎండిపోతాయి.</string>
+    <string name="grape_black_rot">వసంతకాలంలో కొత్త పెరుగుదల ప్రారంభమయ్యే ముందు సోకిన కత్తిరింపులు మరియు మమ్మీ చేయబడిన బెర్రీలను తొలగించి, కాల్చివేయాలి మరియు/లేదా మట్టిలో పాతిపెట్టాలి. ద్రాక్షతోటలలో అవకాశం ఉన్న రకాలు లేదా మునుపటి సంవత్సరం నల్ల తెగులు సమస్య ఉన్న చోట, ప్రారంభ సీజన్‌లో శిలీంద్ర సంహారిణి స్ప్రేలు ప్రారంభ ఇన్‌ఫెక్షన్‌లను నివారించడానికి సమయానుకూలంగా చేయాలి. అంటువ్యాధులు చాలా ఎక్కువగా ఉంటే, పండు కుళ్ళిపోకుండా రక్షించడం తరువాత పెరుగుతున్న కాలంలో చాలా కష్టం. నిరోధక రకాలను నాటడం గట్టిగా సూచించబడింది.</string>
+
+    <string name="grape_esca_black_measles">ప్రస్తుతం, మీజిల్స్ కోసం సమర్థవంతమైన నిర్వహణ వ్యూహాలు లేవు. చిన్న ద్రాక్షతోటలతో వైన్ ద్రాక్ష సాగు చేసేవారు తరచుగా పంటకు ముందు సోకిన పండ్లను తీసివేస్తారు. మీజిల్స్ ద్వారా ప్రభావితమైన ఎండు ద్రాక్ష పంట సమయంలో లేదా ప్యాకింగ్ హౌస్ వద్ద విస్మరించబడుతుంది, అయితే టేబుల్ ద్రాక్ష పెంపకందారులు ప్రభావిత పండ్లను తీగపై వదిలివేస్తారు. తాజా గాయాలను కాలనీలుగా మార్చకుండా అనుమానిత శిలీంధ్రాలను తగ్గించడానికి ఫంగల్ ఇన్‌ఫెక్షన్ల నుండి కత్తిరింపు గాయాలను రక్షించడంపై ప్రస్తుత పరిశోధన దృష్టి సారించింది.</string>
+    <string name="grape_isariopsis_leaf_spot">సీజన్‌లో ఇతర వ్యాధుల కోసం పిచికారీ చేసే శిలీంద్రనాశకాలు ఈ వ్యాధిని తగ్గించడంలో సహాయపడతాయి.</string>
+    <string name="peach_bacterial_spot">అత్యంత హాని కలిగించే సాగు రకాలు: ‘ఆటంగ్లో’ ‘ఆటమ్ లేడీ’ ‘బ్లేక్’ ‘ఎల్బెర్టా’ ‘హేల్‌హావెన్’ ‘జులై ఎల్బెర్టా’</string>
+    <string name="potato_early_blight">ప్రారంభ ముడత చికిత్సలో వ్యాధిని తట్టుకునే బంగాళాదుంప రకాలను నాటడం ద్వారా నివారణ ఉంటుంది; ఆలస్యంగా పక్వానికి వచ్చే రకాల కంటే ఆలస్యంగా పరిపక్వం చెందుతాయి.\nఓవర్ హెడ్ నీటిపారుదలని నివారించండి మరియు ఆకులను వీలైనంత త్వరగా ఆరబెట్టడానికి మొక్కల మధ్య తగినంత గాలిని అనుమతించండి. 2 సంవత్సరాల పంట మార్పిడిని ప్రాక్టీస్ చేయండి. అంటే, బంగాళాదుంప పంట పండించిన తర్వాత 2 సంవత్సరాల వరకు ఈ కుటుంబంలో బంగాళదుంపలు లేదా ఇతర పంటలను తిరిగి నాటవద్దు.</string>
+    <string name="potato_late_blight">సరైన రకాన్ని ఎంచుకోండి: ఏ టొమాటో రకాలు ఆలస్యంగా వచ్చే ముడతకు పూర్తిగా రోగనిరోధక శక్తిని కలిగి ఉండనప్పటికీ, మొక్కల పెంపకందారులు ఇప్పుడు లేట్ బ్లైట్ ఫంగస్ ద్వారా ఇన్ఫెక్షన్‌ను నిరోధించే రకాలను అభివృద్ధి చేస్తున్నారు. కాబట్టి, ఏ రకాలను నాటాలో నిర్ణయించుకునే సమయం వచ్చినప్పుడు, వీటిని గమనించండి.\nఅతిగా శీతాకాలాన్ని నివారించండి: అదృష్టవశాత్తూ, ఆలస్యంగా వచ్చే ముడతకు కారణమయ్యే ఫంగస్‌కు చలికాలంలో జీవించే కణజాలం అవసరం, కాబట్టి ఇది టమాటో పంజరాలపై లేదా సపోర్టులపై ఎక్కువ శీతాకాలం ఉండదు. .\nమొక్కలకు స్థలం ఇవ్వండి: వీలైతే, గత సంవత్సరం టమోటాలు మరియు బంగాళదుంపలు ఉన్న చోట నాటడం మానుకోండి. \nఎగువ నుండి నీరు త్రాగుట మానుకోండి: సోకర్ గొట్టాలు లేదా బిందు సేద్యం ఉపయోగించి ఆకులను పొడిగా ఉంచుతుంది, ఇది ఆలస్యమైన ముడతలు - మరియు ఇతర వ్యాధులు - వ్యాప్తి చెందడం మరింత కష్టతరం చేస్తుంది. </string>
+    <string name="strawberry_leaf_scorch">స్ట్రాబెర్రీ మొక్కలపై ఆకు కాలిపోవడం విసుగు కలిగిస్తుంది, తోటలో దాని వ్యాప్తిని నిరోధించడంలో సహాయపడటానికి ఇంటి తోటమాలి ఉపయోగించే కొన్ని వ్యూహాలు ఉన్నాయి. స్ట్రాబెర్రీ లీఫ్ స్కార్చ్ నియంత్రణ యొక్క ప్రాధమిక సాధనం ఎల్లప్పుడూ నివారణగా ఉండాలి.</string>
+
+    <string name="tomato_bacterial_spot">రోగకారక రహిత విత్తనం మరియు వ్యాధి-రహిత మార్పిడిని ఉపయోగించడం, సాధ్యమైనప్పుడు, టమోటాపై బ్యాక్టీరియా మచ్చను నివారించడానికి ఉత్తమ మార్గం. గ్రీన్‌హౌస్ లేదా ఫీల్డ్ కార్యకలాపాలకు సమీపంలో స్ప్రింక్లర్ ఇరిగేషన్ మరియు కల్ పైల్స్‌ను నివారించడం మరియు నాన్‌హోస్ట్ పంటతో తిరగడం కూడా వ్యాధిని నియంత్రించడంలో సహాయపడుతుంది.</string>
+    <string name="tomato_early_blight">గత రెండు సంవత్సరాలలో టొమాటోలు లేదా సోలనేసి కుటుంబానికి చెందిన వంకాయ, బంగాళదుంపలు లేదా మిరియాల వంటి ఇతర సభ్యులను పెంచడానికి ఉపయోగించని తోటలోని ఒక విభాగంలో టమోటాలు నాటడం ద్వారా పంట భ్రమణాన్ని ఆచరించండి. .\nముడత వ్యాధిని తట్టుకునే టొమాటో రకాన్ని ఎంచుకోవడానికి విత్తన ప్యాకేజీలు లేదా మొక్కల లేబుల్‌లను జాగ్రత్తగా చదవండి.\nపంజరం లేదా టొమాటో మొక్కలను పంజరంలో ఉంచండి, తద్వారా ఆకులు నేల నుండి నిలువుగా పెరుగుతాయి.\nమొక్కల చుట్టూ బాగా కప్పండి.</string>
+    <string name="tomato_late_blight">లేట్ బ్లైట్ ఫంగస్ యొక్క నిర్దిష్ట జాతులకు నిరోధకత కలిగిన టొమాటో రకాలు క్రమం తప్పకుండా వ్యాధి వచ్చే చోట పెరుగుతాయి.\nసమీపంలో ఏవైనా స్వచ్ఛందంగా ఉన్న టమోటా మరియు బంగాళాదుంప మొక్కలు మరియు నైట్‌షేడ్‌లను తీసివేయండి.\nఆలస్య ముడత లేకుండా ఉండేలా మార్పిడిని తనిఖీ చేయండి. నాటడానికి ముందు.\nవీలైతే స్ప్రింక్లర్ నీటిపారుదలని నివారించండి, ఎందుకంటే ఇది ఆలస్యమైన ముడత అభివృద్ధికి అనుకూలంగా ఉంటుంది.</string>
+    <string name="tomato_leaf_mold">రోగకారక P. ఫుల్ఫా వ్యాధి సోకిన మొక్కల శిధిలాల మీద లేదా మట్టిలో జీవించగలదు, అయినప్పటికీ వ్యాధి యొక్క ప్రారంభ మూలం తరచుగా సోకిన విత్తనం. ఈ వ్యాధి వర్షం మరియు గాలి ద్వారా, పనిముట్లు మరియు దుస్తులపై మరియు కీటకాల కార్యకలాపాల ద్వారా వ్యాపిస్తుంది.\nఅధిక సాపేక్ష ఆర్ద్రత (85% కంటే ఎక్కువ) అధిక ఉష్ణోగ్రతలతో కలిపి వ్యాధి వ్యాప్తిని ప్రోత్సహిస్తుంది. దీన్ని దృష్టిలో ఉంచుకుని, గ్రీన్‌హౌస్‌లో టమోటాలు పండిస్తే, రాత్రి ఉష్ణోగ్రతలు బయటి ఉష్ణోగ్రతల కంటే ఎక్కువగా ఉండేలా చూసుకోండి.</string>
+    <string name="tomato_spetoria_leaf_spot">సోకిన ఆకులను తీసివేయడం. సోకిన ఆకులను వెంటనే తొలగించండి మరియు వ్యాధి సోకని మొక్కలతో పని చేసే ముందు మీ చేతులు మరియు ప్రూనర్‌లను బాగా కడగండి.\nసేంద్రీయ శిలీంద్ర సంహారిణి ఎంపికలను పరిగణించండి. రాగి లేదా పొటాషియం బైకార్బోనేట్‌తో కూడిన శిలీంద్రనాశకాలు వ్యాధి వ్యాప్తిని నిరోధించడంలో సహాయపడతాయి. మొదటి లక్షణాలు కనిపించిన వెంటనే స్ప్రే చేయడం ప్రారంభించండి మరియు నిరంతర నిర్వహణ కోసం లేబుల్ సూచనలను అనుసరించండి.</string>
+    <string name="tomato_target_spot">వ్యాధి ఉన్న పాత పంటల పక్కన కొత్త పంటలను వేయకండి.\nబొప్పాయి నుండి వీలైనంత వరకు నాటండి, ప్రత్యేకించి ఆకులు చిన్న కోణీయ మచ్చలు కలిగి ఉంటే (ఫోటో 5).\nనర్సరీలోని అన్ని మొలకలని తనిఖీ చేయండి. , మరియు ఆకు మచ్చలు ఉన్నవాటిని పారేయండి. మొక్కల దిగువ భాగం నుండి కొన్ని కొమ్మలను తీసివేసి, బేస్ వద్ద మంచి గాలి ప్రవహించేలా చేయండి\nవ్యాధి కనిపించిన వెంటనే దిగువ ఆకులను తీసివేసి కాల్చండి, ముఖ్యంగా దిగువ పండ్ల ట్రస్సులు తర్వాత ఎంచుకున్నారు.</string>
+
+    <string name="tomato_yellow_leaf_curl">టమోటో పసుపు ఆకు కర్ల్ వైరస్ కోసం వేగవంతమైన మరియు ఖచ్చితమైన పరీక్షలు UC డేవిస్ మరియు CDFAలో అందుబాటులో ఉన్నాయి. ఈ పరీక్షలు 24 గంటల కంటే తక్కువ సమయంలో నిర్వహించబడతాయి. TYLC-వంటి లక్షణాలతో టొమాటోలను కనుగొనే ఎవరైనా వారి కౌంటీ వ్యవసాయ సలహాదారు, UC డేవిస్‌లో రాబర్ట్ L. గిల్బర్ట్‌సన్ లేదా CDFAలో టోంగ్యాన్ టియాన్‌ను సంప్రదించవచ్చు.</string>
+    <string name="tomato_mosaic_virus">తక్కువగా లేదా వక్రీకరించినట్లుగా కనిపించే ఏవైనా మొలకలను నాశనం చేసి, ఆపై ఉపకరణాలు మరియు చేతులను కలుషితం చేయండి.\nటొమాటోల చుట్టూ ఉన్న ప్రాంతాన్ని కలుపు లేకుండా ఉంచండి మరియు వ్యాధిని ఆశ్రయించే ప్రాంతాలను తగ్గించడానికి మొక్కలకు హాని కలిగించకుండా ఉంచండి. కలుషిత అవకాశాలను తగ్గించడానికి కీటకాలను నియంత్రించండి.</string>
+    <string name="tomato_spider_mites">మీ టొమాటో మొక్కలు దాహం వేస్తే, స్పైడర్ పురుగులు లోపలికి వెళ్లవచ్చు. మట్టిని తేమగా ఉంచడానికి క్రమం తప్పకుండా నీరు త్రాగుటకు అలవాటు చేసుకోండి, కానీ నీటితో నిండిపోకుండా ఉండండి. అవి తరచుగా మురికి మొక్కలపై కనిపిస్తాయి. వీలైతే, మొక్కలకు పైనుండి నీళ్ళు పోయండి.</string>
+    <string name="grey_common_rust">బూడిద ఆకు మచ్చల నిర్వహణ వ్యూహాలలో సాగు, పంట భ్రమణం మరియు నాటడం నిరోధక హైబ్రిడ్‌లు ఉన్నాయి.\n మొక్కలు త్వరగా సోకినప్పుడు మరియు పర్యావరణ పరిస్థితులు వ్యాధికి అనుకూలంగా ఉన్నప్పుడు గణనీయమైన నష్టాన్ని నివారించడానికి శిలీంద్రనాశకాలు అవసరమవుతాయి.</string>
+    <string name="apple_healthy">మీరు బాగున్నారు!!</string>
+    <string name="scales">1. ప్రమాణాలు: ఇవి మైనపు స్కేల్ లాగా కనిపించే గట్టి పూత లోపల కప్పబడి ఉంటాయి మరియు ఆకుల దిగువ ఉపరితలం మరియు కొమ్మల సిరలను ప్రభావితం చేస్తాయి.</string>
+
+    <string name="thrip">2. త్రిప్స్: ఇవి సూక్ష్మంగా పీల్చే కీటకాలు, ఇవి ప్రధానంగా లేత ఆకులు, కొమ్మలు మరియు పూల మొగ్గలపై దాడి చేస్తాయి, దీని వలన ప్రభావితమైన మొక్కలు కాలిపోయి బలహీనంగా ఉంటాయి.</string>
+    <string name="aphids">3. అఫిడ్స్: ఈ గోధుమ లేదా ఆకుపచ్చ కీటకాలు లేత రెమ్మలు, ఆకులు మరియు పూల మొగ్గల నుండి రసాన్ని పీలుస్తాయి. ప్రభావిత మొక్క బలహీనంగా మారుతుంది మరియు పెరుగుదలలో వెనుకబడి ఉంటుంది.</string>
+    <string name="mealybugs">4. మీలీబగ్స్: ఇవి చిన్న కండగల కీటకాలు, ఇవి తెలుపు, ఉన్ని మరియు మైనపు స్రావాలతో కప్పబడి ఉంటాయి. సాధారణంగా, పాత మొక్కలు ప్రభావితమవుతాయి.</string>
+    <string name="whitefiles">5. తెల్లదోమలు: ఇవి చిన్న కీటకాలు, తెలుపు రంగులో ఉంటాయి మరియు తడి మరియు చీకటి పరిస్థితుల్లో చాలా చురుకుగా ఉంటాయి.</string>
+    <string name="spider_mites">6. స్పైడర్-మైట్స్: ఇది ఒక నిమిషం చుక్క పరిమాణంలో ప్రమాదకరమైనది, షూట్ పీల్చే తెగులు, ఎరుపు రంగు, దాదాపు కంటితో కనిపించదు, సాలీడును పోలి ఉంటుంది కానీ అసలు సాలీడు కాదు.</string>
+    <string name="caterpillr">7. గొంగళి పురుగులు: వివిధ గొంగళి పురుగులు ఆకులను తింటాయి, అవి నిరంతరం ఆహారం ఇవ్వడం ద్వారా ఆకులను దెబ్బతీస్తాయి.</string>
+    <string name="leaf_bettle">8. లీఫ్ బీటిల్స్ మరియు వీవిల్స్: ఈ లీఫ్ ఇన్ఫెస్ట్ ఎగిరే కీటకాలు గులాబీల వంటి పుష్పించే మొక్కలపై తీవ్రమైన తెగుళ్లుగా పరిగణించబడతాయి.</string>
+    <string name="cut_worms">9. కత్తిరించిన పురుగులు: ఈ బగ్ మట్టిలోనే ఉండి నేల స్థాయిలో మొక్కపై దాడి చేస్తుంది.</string>
+    <string name="leaf_miner">10. లీఫ్-మైనర్లు: థీసిస్ కీటకాల లార్వా కణజాల పొరల మధ్య ఆకులుగా మారుతుంది, ఆకు ఉపరితలంపై విసర్జనను వదిలివేస్తుంది మరియు ఆకులపై సాధారణ తెల్లని నమూనాలను సృష్టిస్తుంది.</string>
+
+
+    <string name="reset">రీసెట్</string>
+    <string name="showPrecautions">ముందుజాగ్రత్త</string>
+    <string name="management_text">నివారణ కోసం నిర్వహణ బటన్ క్లిక్ చేయండి</string>
+
+    <string name="action_search">శోధన</string>
+    <string name="action_refresh">రిఫ్రెష్</string>
+    <string name="action_settings">సెట్టింగ్‌లు</string>
+    <string name="action_about">గురించి</string>
+
+    <string name="today">ఈరోజు</string>
+    <string name="tomorrow">రేపు</string>
+    <string name="later">తరువాత</string>
+
+    <string name="wind">గాలి</string>
+    <string name="wind_speed">గాలి వేగం</string>
+    <string name="pressure">ఒత్తిడి</string>
+    <string name="humidity">తేమ</string>
+    <string name="sunrise">సూర్యోదయం</string>
+    <string name="sunset">సూర్యాస్తమయం</string>
+    <string name="uvindex">UV సూచిక</string>
+
+    <string name="last_update">చివరిగా నవీకరించబడింది:\n%s</string>
+    <string name="last_update_widget">\nచివరి నవీకరణ: %s</string>
+    <string name="search_title">నగరం కోసం శోధించండి</string>
+    <string name="downloading_data">మీ డేటాను డౌన్‌లోడ్ చేస్తోంది...</string>
+    <string name="getting_location">మీ స్థానాన్ని పొందడం ...</string>
+    <string name="loading_data">లోడ్ అవుతోంది...</string>
+    <string name="error_dateFormat">తేదీ ఫార్మాట్ లోపం</string>
+    <string name="setting_dateFormat">తేదీ ఫార్మాట్</string>
+    <string name="setting_dateFormatCustom">అనుకూల తేదీ ఫార్మాట్</string>
+    <string name="setting_dateFormatCustom_summary">ఉపయోగించడానికి అనుకూల SimpleDateFormat స్ట్రింగ్‌ను అందించండి</string>
+    <string name="setting_lengthUnits">పొడవు యూనిట్లు</string>
+    <string name="setting_speedUnits">స్పీడ్ యూనిట్లు</string>
+    <string name="setting_tempUnits">ఉష్ణోగ్రత యూనిట్లు</string>
+    <string name="setting_showTempAsInteger">ఉష్ణోగ్రతను పూర్ణాంకం వలె మాత్రమే చూపు</string>
+    <string name="setting_pressureUnits">ఒత్తిడి యూనిట్లు</string>
+    <string name="setting_theme">థీమ్</string>
+
+    <string name="setting_transparent_widget">విడ్జెట్‌ను పారదర్శకంగా చేయండి</string>
+    <string name="setting_auto_detect_location">స్థానాన్ని గుర్తించండి</string>
+    <string name="setting_differentiateDaysByTint">రోజులను రంగుతో వేరు చేయండి</string>
+    <string name="setting_refreshInterval">నేపథ్య రిఫ్రెష్ విరామం</string>
+    <string name="setting_unit_mps">సెకనుకు మీటర్లు (m/s)</string>
+    <string name="setting_unit_kph">కిలోమీటర్లు గంటకు (kph)</string>
+    <string name="setting_unit_mph">మైల్స్ పర్ గంట (mph)</string>
+    <string name="setting_unit_bft">బ్యూఫోర్ట్ విండ్ స్కేల్ (bft)</string>
+    <string name="setting_unit_kn">నాట్స్ (kn)</string>
+    <string name="setting_wind_direction_format">గాలి దిశ ఆకృతి</string>
+    <string name="settings_none">ఏదీ కాదు</string>
+    <string name="setting_apiKey">API కీ</string>
+    <string name="setting_apiKey_summary">OpenWeatherMap ప్రశ్నల కోసం అనుకూల API కీ</string>
+
+    <string name="setting_unit_Celsuis">సెల్సియస్</string>
+    <string name="setting_unit_Fahrenheit">ఫారెన్‌హీట్</string>
+    <string name="setting_unit_Kelvin">కెల్విన్</string>
+
+
+    <string name="setting_unit_mm">మిల్లీమీటర్లు (మిమీ)</string>
+    <string name="setting_unit_in">Inches (in)</string>
+
+    <string name="setting_unit_hpa">hPa</string>
+    <string name="setting_unit_kpa">kPa</string>
+    <string name="setting_unit_mmhg">mm Hg</string>
+    <string name="setting_unit_inhg">Hgలో</string>
+
+    <string name="speed_unit_mps">m/s</string>
+    <string name="speed_unit_kph">kph</string>
+    <string name="speed_unit_mph">mph</string>
+    <string name="speed_unit_kn">kn</string>
+
+    <string name="wind_direction_format_none">సూచన లేదు</string>
+    <string name="wind_direction_format_arrows">బాణాలు</string>
+    <string name="wind_direction_format_abbreviations">సంక్షిప్తాలు</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_kpa">kPa</string>
+    <string name="pressure_unit_mmhg">mm Hg</string>
+
+    <string name="setting_theme_fresh">ఫ్రెష్</string>
+    <string name="setting_theme_classic">క్లాసిక్</string>
+    <string name="setting_theme_dark">తాజా చీకటి</string>
+    <string name="setting_theme_classic_dark">క్లాసిక్ డార్క్</string>
+    <string name="setting_theme_black">తాజా నలుపు</string>
+    <string name="setting_theme_classic_black">క్లాసిక్ బ్లాక్</string>
+
+    <string name="dialog_ok">సరే</string>
+    <string name="dialog_cancel">రద్దు చేయి</string>
+
+    <string name="msg_err_parsing_json">కనెక్షన్ గడువు ముగిసింది.</string>
+    <string name="msg_connection_problem">మీ ఇంటర్నెట్ కనెక్షన్‌లో సమస్య ఉంది.</string>
+    <string name="msg_connection_not_available">కనెక్షన్ అందుబాటులో లేదు.</string>
+    <string name="msg_city_not_found">పేర్కొన్న నగరం కనుగొనబడలేదు.</string>
+
+    <string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+
+
+    <string name="wind_direction_north">N</string>
+    <string name="wind_direction_north_north_east">NNE</string>
+    <string name="wind_direction_north_east">NE</string>
+    <string name="wind_direction_east_north_east">ENE</string>
+    <string name="wind_direction_east">E</string>
+    <string name="wind_direction_east_south_east">ESE</string>
+    <string name="wind_direction_south_east">SE</string>
+    <string name="wind_direction_south_south_east">SSE</string>
+    <string name="wind_direction_south">S</string>
+    <string name="wind_direction_south_south_west">SSW</string>
+    <string name="wind_direction_south_west">SW</string>
+    <string name="wind_direction_west_south_west">WSW</string>
+    <string name="wind_direction_west">W</string>
+    <string name="wind_direction_west_north_west">WNW</string>
+    <string name="wind_direction_north_west">NW</string>
+    <string name="wind_direction_north_north_west">NNW</string>
+    <string name="msg_too_many_requests">చాలా ఎక్కువ అభ్యర్థనలు. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+
+
+    <!-- 1: ఉష్ణోగ్రత; 2: యూనిట్ -->
+    <string name="dash_clock_status">%1$s%2$s</string>
+    <!-- 1: ఉష్ణోగ్రత; 2: యూనిట్; 3: వాతావరణ వివరణ -->
+    <string name="dash_clock_expanded_title">%1$s%2$s - %3$s</string>
+    <!-- 1: నగరం; 2: దేశం; 3: గాలి; 4: స్పీడ్ యూనిట్లు; 5: ఒత్తిడి; 6: ఒత్తిడి యూనిట్లు; 7: తేమ -->
+    <string name="dash_clock_expanded_body">%1$s, %2$s\nగాలి: %3$s %4$s\nపీడనం: %5$s %6$s\nతేమ: %7$s %%\n </string>
+    <string name="settings_title_units">యూనిట్‌లు</string>
+    <string name="settings_title_display">డిస్ప్లే</string>
+    <string name="settings_title_data">డేటా</string>
+    <string name="setting_displayDecimalZeroes">దశాంశ సున్నాలను ప్రదర్శించు</string>
+    <string name="settings_title_location">స్థానం</string>
+    <string name="setting_update_location_automatically">నేపథ్యంలో స్థానాన్ని నవీకరించండి</string>
+
+    <string name="location_settings">స్థాన సెట్టింగ్‌లు</string>
+    <string name="location_settings_message">స్థానం ప్రారంభించబడలేదు. మీరు సెట్టింగ్‌ల మెనుకి వెళ్లాలనుకుంటున్నారా?</string>
+    <string name="location_settings_button">సెట్టింగ్‌లు</string>
+    <string name="action_weather_map">వాతావరణ మ్యాప్</string>
+    <string name="rain">వర్షం</string>
+    <string name="temperature">ఉష్ణోగ్రత</string>
+    <string name="action_graphs">గ్రాఫ్‌లు</string>
+    <string name="hello_blank_fragment">హలో ఖాళీ భాగం</string>
+
+    <string name="app_sign_name">వాతావరణం</string>
+    <string name="pref_previously_started" />
+    <string name="permission_request_denied">అనుమతి అభ్యర్థన తిరస్కరించబడింది</string>
+    <string name="error_gif">x లేదా y బౌండ్ పరిమాణం కనీసం %1$dpx ఉండాలి మరియు ఫైల్ పరిమాణం %2$sM కంటే ఎక్కువ ఉండకూడదు</string>
+    <string name="button_sure_default">పూర్తయింది</string>
+    <string name="button_sure">నిష్క్రమించు</string>
+    <string name="button_preview">పిన్</string>
+    <string name="write_your_enquiry">మీ విచారణను వ్రాయండి...</string>
+    <string name="look_deep_into_nature">ప్రకృతిలోకి లోతుగా చూడండి</string>
+    <string name="no_query_found_create_one">ప్రశ్న ఏదీ కనుగొనబడలేదు. ఒకదాన్ని సృష్టించండి.</string>
+    <string name="take_action">చర్య తీసుకోండి</string>
+    <string name="your_crop_is">మీ పంట:</string>
+    <string name="_24_c">24*C</string>
+    <string name="suitable_weather">అనుకూలమైన వాతావరణం</string>
+    <string name="more">మరిన్ని..</string>
+    <string name="culture">సంస్కృతి</string>
+    <string name="details">వివరాలు</string>
+    <string name="crop_name">పంట పేరు</string>
+    <string name="scientific_name">శాస్త్రీయ పేరు</string>
+    <string name="hi_there">హాయ్</string>
+    <string name="welcome_to_samadhaan">సమాధానానికి స్వాగతం</string>
+    <string name="get_started">ప్రారంభించండి</string>
+    <string name="your_flower_is">మీ పుష్పం:</string>
+    <string name="click_on_the_result_to_know_more">మరింత తెలుసుకోవడానికి ఫలితంపై క్లిక్ చేయండి..</string>
+
+    <string name="forgot_password_txt">పాస్‌వర్డ్ మర్చిపోయారా</string>
+    <string name="send_instructions">సూచనలను పంపండి</string>
+    <string name="graph">గ్రాఫ్</string>
+    <string name="let_s_log_in">లాగిన్ చేద్దాం</string>
+    <string name="welcome_back_nyou_ve_been_missed">తిరిగి స్వాగతం.\nమీరు మిస్ అయ్యారు!</string>
+    <string name="show_password">పాస్‌వర్డ్‌ను చూపు</string>
+    <string name="don_t_have_an_account">ఖాతా లేదా?</string>
+    <string name="log_in">లాగిన్</string>
+    <string name="detect_disease_from_your_crop">మీ పంట నుండి వ్యాధిని గుర్తించండి</string>
+    <string name="take_a_picture">చిత్రాన్ని తీయండి</string>
+    <string name="get_the_result">ఫలితాన్ని పొందండి</string>
+    <string name="get_ndiagnosis">రోగనిర్ధారణ పొందండి</string>
+    <string name="identify_crop_by_leaf">ఆకు ద్వారా పంటను గుర్తించండి</string>
+    <string name="take_a_leaf_picture">ఒక ఆకు చిత్రాన్ని తీయండి</string>
+    <string name="identify_flower">పువ్వును గుర్తించండి</string>
+    <string name="take_a_flower_picture">పువ్వు చిత్రాన్ని తీయండి</string>
+    <string name="location">LOCATION</string>
+    <string name="posted_by">పోస్ట్ చేసినవారు:</string>
+    <string name="user_name">వినియోగదారు పేరు</string>
+    <string name="title_here">శీర్షిక ఇక్కడ</string>
+    <string name="comments">వ్యాఖ్యలు</string>
+    <string name="type_something">ఏదైనా టైప్ చేయండి..</string>
+    <string name="create_account">ఖాతాను సృష్టించండి.</string>
+    <string name="upload_image">చిత్రాన్ని అప్‌లోడ్ చేయండి</string>
+    <string name="already_have_an_account">ఇప్పటికే ఖాతా ఉందా?</string>
+
+    <string name="change_language"><u>Change Language</u></string>
+
+    <string name="register">రిజిస్టర్</string>
+    <string name="we_have_sent_instructions_to">మేము వీరికి సూచనలను పంపాము:</string>
+    <string name="back_to_log_in">తిరిగి లాగిన్ చేయడానికి</string>
+    <string name="havent_s_received_an_email_check_your_spam_filter_or_copy">హావెంట్‌కి ఇమెయిల్ వచ్చిందా? మీ స్పామ్ ఫిల్టర్‌ని తనిఖీ చేయండి లేదా కాపీ చేయండి</string>
+    <string name="plant_care">మొక్కల సంరక్షణ</string>
+    <string name="_05_44_pm">05:44 PM</string>
+    <string name="date">14/05/2020</string>
+    <string name="weather_check">వాతావరణ తనిఖీ</string>
+    <string name="next">తదుపరి</string>
+    <string name="more_info">మరింత సమాచారం</string>
+    <string name="wwqq">wwqq</string>
+    <string name="crop_title">క్రాప్ టైటిల్</string>
+    <string name="crop_description">క్రాప్ వివరణ</string>
+    <string name="_0_c">0 °C</string>
+    <string name="city_name_ab">నగరం పేరు, AB</string>
+    <string name="wind_0_m_s">గాలి: 0 m/s</string>
+    <string name="pressure_0_hpa">ఒత్తిడి: 0 hpa</string>
+    <string name="humidity_0">తేమ: 0 %</string>
+    <string name="sunrise_00_00">సూర్యోదయం: 00:00</string>
+    <string name="sunset_00_00">సూర్యాస్తమయం: 00:00</string>
+    <string name="locations">స్థానాలు</string>
+    <string name="c">C</string>
+    <string name="textview">TextView</string>
+    <string name="des">des</string>
+    <string name="create_your_enquiry">మీ విచారణను సృష్టించండి</string>
+    <string name="enquiry_title">ఎంక్వైరీ టైటిల్..</string>
+    <string name="write_s_your_enquiry">మీ విచారణను వ్రాయాలా?</string>
+    <string name="post">పోస్ట్</string>
+    <string name="post_title">పోస్ట్ టైటిల్</string>
+    <string name="text_comment_goes_here">వచన వ్యాఖ్య ఇక్కడకు వస్తుంది</string>
+    <string name="_10_20">10:20</string>
+    <string name="choose_language">మీ భాషను ఎంచుకోండి</string>
+</resources>

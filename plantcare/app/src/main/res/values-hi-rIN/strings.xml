@@ -1,0 +1,318 @@
+<resources>
+    <string name="app_name">समाधान</string>
+    <string name="prompt_email">अपनी ईमेल आईडी दर्ज करें</string>
+    <string name="prompt_password">अपना पासवर्ड दर्ज करें</string>
+    <string name="register_here">पंजीकरण करें</string>
+    <string name="prompt_fullname">अपना नाम दर्ज करें</string>
+    <string name="prompt_confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="loading_text_crops">छोटे बीजों से शक्तिशाली पेड़ उगते हैं।</string>
+    <string name="demo_text">Lorem Ipsum प्रिंटिंग और टाइपसेटिंग उद्योग का केवल एक डमी टेक्स्ट है।</string>
+
+    <string name="forgot_password">अपने खाते से संबद्ध ईमेल पता दर्ज करें:</string>
+    <string name="tryanother"><u>कोई दूसरा ईमेल आज़माएं</u></string>
+    <!-- रोग का पता लगाएं भाग-->
+    <string name="buttonSelectPhoto">फ़ोटो चुनें</string>
+    <string name="buttonTakePhoto">कैमरा प्रारंभ करें</string>
+    <string name="buttonDiagnose">पता लगाएँ</string>
+    <string name="defaultImage">डिफ़ॉल्ट छवि अभी सेट की गई है...</string>
+    <string name="descriptionImage">छवि प्रदर्शित करने के लिए देखें</string>
+
+    <string name="open_gallery">गैलरी खोलें</string>
+    <string name="start_camera">स्टार्ट कैमरा</string>
+    <string name="resultTxt">आपका परिणाम</string>
+    <string name="detect_txt">पहले एक छवि आयात या कैप्चर करें \nजब ImageView में लोड किया जाता है, तो आप बीमारी का पता लगाने के लिए तैयार होते हैं</string>
+    <string name="detect_txt_2">पहले एक छवि कैप्चर करें \nजब ImageView में लोड किया जाता है, तो आप बीमारी का पता लगाने के लिए तैयार होते हैं</string>
+
+    <string name="available_crops"><b>उपलब्ध फसलें:</b> सेब, ब्लूबेरी, चेरी, मक्का, अंगूर, संतरा, आड़ू, काली मिर्च, आलू, टमाटर, रास्पबेरी, और स्ट्रॉबेरी</string>
+    <string name="available_crops_by_leaf"><b>उपलब्ध फसलें:</b> सेब, ब्लूबेरी, चेरी, मक्का, अंगूर, आड़ू, काली मिर्च, आलू, टमाटर, रास्पबेरी, स्ट्रॉबेरी, एलस्टोनिया स्कॉलरिस, अर्जुन, तुलसी, चिनार, गौवा , जामुन, जटरोफा, नींबू, आम, अनार, और पोंगामिया पिन्नाटा</string>
+    <string name="available_flowers"><b>उपलब्ध फूल:</b> "पिंक प्रिमरोज़",
+"हार्ड-लीव्ड पॉकेट ऑर्किड",
+"कैंटरबरी बेल्स",
+"एक प्रकार का मटर",
+"अंग्रेजी गेंदा",
+"टाइगर लिली",
+"चंद्रमा आर्किड",
+"स्वर्ग की चिड़िया",
+"भिक्षु",
+"ग्लोब थीस्ल",
+"स्नैपड्रैगन",
+"बछेड़ा का पैर",
+"राजा प्रोटिया",
+"भाला थीस्ल",
+और भी कई..
+    </string>
+
+    <string name="apple_scab"><b>स्कैब-प्रतिरोधी चुनें</b> सेब या केकड़े के पेड़ की किस्में।\n<b>रेक अप करें</b> और किसी भी गिरे हुए पत्तों या फलों को नियमित रूप से त्यागें, और सर्दियों में कभी भी गिरे हुए पत्ते या फल जमीन पर न छोड़ें। गिरी हुई पत्तियों और फलों पर सेब की पपड़ी का फंगस सर्दियों में खत्म हो जाता है। अपने सेब और केकड़े के पेड़ों को अपने मुकुटों को खुला रखने के लिए <b>काटें</b> ताकि प्रकाश और हवा चल सके। सूखे पत्ते और फल प्रारंभिक संक्रमण को रोकने में मदद करते हैं।\n<b>रोपें</b> अपने सेब और केकड़े के पेड़, पूर्ण सूर्य में और प्रत्येक पेड़ के चारों ओर पर्याप्त जगह के साथ, उनके परिपक्व आकार के अनुसार। छाया पानी को जल्दी वाष्पित होने से बचाती है, और भीड़-भाड़ वाले पेड़ रोग के प्रति अधिक संवेदनशील होते हैं।\n<b>अपने पेड़ों को सुबह के समय में सिंचाई करें</b>, और ओवरहेड स्प्रे का उपयोग न करें जो पत्तियों और फलों को गीला कर देगा। सूखे पत्ते फंगस की मेजबानी नहीं करेंगे।</string>
+    <string name="apple_black_rot">\nमृत या रोगग्रस्त शाखाओं को हटा दें।\nपेड़ों पर बचे सभी सूखे और सिकुड़े हुए फलों को चुनें। एक नगरपालिका खाद साइट।\nआपके द्वारा काटे गए सेब के पेड़ों के स्टंप को हटाना सुनिश्चित करें। मृत स्टंप बीजाणुओं का स्रोत हो सकते हैं।</string>
+    <string name="cedar_apple_rust">उपलब्ध होने पर प्रतिरोधी किस्मों का चयन करें।\n पेड़ों के नीचे से गिरे हुए पत्तों और अन्य मलबे को उठाकर फेंक दें।\nसंक्रमित जुनिपर्स से गिल्स निकालें। कुछ मामलों में, जुनिपर पौधों को पूरी तरह से हटा दिया जाना चाहिए।\nजुनिपर होस्ट द्वारा जारी किए जा रहे बीजाणुओं से पेड़ों की रक्षा के लिए, साप्ताहिक सेब पर उपयोग के लिए लेबल किए गए निवारक, रोग से लड़ने वाले कवकनाशी को कलियों के टूटने से शुरू करें। यह प्रति वर्ष केवल एक बार होता है, इसलिए इस वसंत ऋतु के प्रसार के बाद अतिरिक्त अनुप्रयोग आवश्यक नहीं हैं।\nजुनिपर पर, अगस्त के अंत के बीच कम से कम चार बार तांबे के घोल (0.5 से 2.0 औंस / गैलन पानी) के साथ पौधों को छिड़क कर जंग को नियंत्रित किया जा सकता है। और अक्टूबर के अंत में।</string>
+    <string name="cherry_powdery_mildew">पहली सिंचाई के लगभग 1 सप्ताह बाद पहली कॉलोनियों की तलाश शुरू करें।\nसकर शूट को हटा दें और नष्ट कर दें।\n सिंचाई का उपयोग करके फल और पत्तियों को विकसित करने से सिंचाई के पानी को दूर रखें जो पत्तियों को गीला नहीं करता है। साथ ही, सिंचाई सेटों को यथासंभव छोटा रखें।\nसांस्कृतिक प्रथाओं का पालन करें जो अच्छे वायु परिसंचरण को बढ़ावा देते हैं, जैसे कि छंटाई, और विवेकपूर्ण नाइट्रोजन प्रबंधन के माध्यम से मध्यम शूट वृद्धि।</string>
+    <string name="corn_grey_spot">मकई ग्रे लीफ स्पॉट से उपज के नुकसान को कम करने के लिए सबसे कुशल और किफायती तरीका प्रतिरोधी पौधों की किस्मों को पेश करना है\n उन जगहों पर जहां लीफ स्पॉट होते हैं, ये फसलें अंततः विकसित हो सकती हैं और फिर भी रोग के लिए प्रतिरोधी हो सकती हैं। यद्यपि रोग पूरी तरह से समाप्त नहीं होता है और प्रतिरोधी किस्मों में रोग के लक्षण दिखाई देते हैं, बढ़ते मौसम के अंत में, रोग फसल की उपज को कम करने में उतना प्रभावी नहीं होता है। \ n मकई के अलावा अन्य फसल लगाने पर प्रारंभिक इनोकुलम की मात्रा कम हो जाएगी उस क्षेत्र में 2 वर्षों के लिए; इस बीच उचित जुताई के तरीके किए जाते हैं। मक्का की अनुपस्थिति में साफ जुताई और 1 साल की फसल चक्रण से रोग की अधिक कमी भी होती है। ध्यान दें कि पारंपरिक जुताई बीमारी को कम कर सकती है लेकिन इससे मिट्टी का कटाव बढ़ सकता है</string>
+    <string name="corn_leaf_blight">इस बीमारी के नियंत्रण को अक्सर प्रबंधन और रोकथाम पर केंद्रित किया जाता है। सबसे पहले, मकई की किस्मों या संकरों को चुनें जो प्रतिरोधी हों या कम से कम उत्तरी मकई के पत्ते के लिए मध्यम प्रतिरोध हो। जब आप मकई उगाते हैं, तो सुनिश्चित करें कि यह लंबे समय तक गीला न रहे। इस संक्रमण का कारण बनने वाले कवक को विकसित होने के लिए छह से 18 घंटे के बीच पत्ती की नमी की आवश्यकता होती है। मकई को हवा के प्रवाह और सुबह पानी के लिए पर्याप्त जगह के साथ रोपें ताकि पत्ते पूरे दिन सूख सकें।</string>
+    <string name="grape_black_rot">संक्रमित छंटाई और ममीकृत जामुनों को हटा दिया जाना चाहिए, जला दिया जाना चाहिए, और/या वसंत में नई वृद्धि शुरू होने से पहले मिट्टी में दबा दिया जाना चाहिए। अतिसंवेदनशील किस्मों वाले अंगूर के बागों में या जहां पिछले वर्ष काला सड़ांध एक समस्या थी, शुरुआती संक्रमणों को रोकने के लिए शुरुआती मौसम के कवकनाशी स्प्रे को समय पर किया जाना चाहिए। क्या संक्रमण कई हो जाना चाहिए, बढ़ते मौसम में बाद में फलों को सड़ने से बचाना बहुत मुश्किल होता है। प्रतिरोधी किस्मों को रोपने का जोरदार सुझाव दिया जाता है।</string>
+    <string name="grape_esca_black_measles">वर्तमान में, खसरे के लिए कोई प्रभावी प्रबंधन रणनीति नहीं है। छोटे अंगूर के बागों वाले वाइन अंगूर उत्पादकों के पास अक्सर फील्ड क्रू होंगे जो फसल से पहले संक्रमित फलों को हटा देंगे। खसरे से प्रभावित किशमिश को फसल के दौरान या पैकिंग हाउस में फेंक दिया जाएगा, जबकि टेबल अंगूर उत्पादक बेल पर प्रभावित फल छोड़ देंगे। वर्तमान शोध का उद्देश्य छंटाई वाले घावों को फंगल संक्रमण से बचाने पर केंद्रित है ताकि संदिग्ध कवक को ताजा घावों को उपनिवेशित करने से कम किया जा सके।</string>
+
+    <string name="grape_isariopsis_leaf_spot">मौसम में अन्य बीमारियों के लिए छिड़काव किए जाने वाले कवकनाशी इस बीमारी को कम करने में मदद कर सकते हैं।</string>
+    <string name="peach_bacterial_spot">सबसे कमजोर किस्में हैं: \'ऑटमंगलो\' \'ऑटम लेडी\' \'ब्लेक\' \'एलबर्टा\' \'हेलहेवन\' \'जुलाई एल्बर्टा\'</string>
+    <string name="potato_early_blight">जल्दी झुलसा के उपचार में रोग प्रतिरोधी आलू की किस्मों को लगाकर रोकथाम करना शामिल है; देर से पकने वाली किस्में जल्दी पकने वाली किस्मों की तुलना में अधिक प्रतिरोधी होती हैं।\nऊपरी सिंचाई से बचें और पौधों के बीच पर्याप्त वातन की अनुमति दें ताकि पत्ते जल्दी से जल्दी सूख सकें। 2 साल के फसल चक्र का अभ्यास करें। यानी आलू की फसल कटने के बाद 2 साल तक इस परिवार में आलू या अन्य फसल न लगाएं।</string>
+    <string name="potato_late_blight">सही किस्म चुनें: हालांकि टमाटर की कोई भी किस्में लेट ब्लाइट के प्रति पूरी तरह से प्रतिरक्षित नहीं हैं, लेकिन पादप प्रजनक अब ऐसी किस्में विकसित कर रहे हैं जो लेट ब्लाइट कवक द्वारा संक्रमण के लिए प्रतिरोधी हैं। इसलिए, जब यह तय करने का समय हो कि कौन सी किस्मों को रोपना है, तो इन पर नज़र रखें। .\nपौधों को जगह दें: यदि संभव हो तो टमाटर और आलू को उस स्थान पर लगाने से बचें, जहां आपने पिछले साल उन्हें लगाया था। \nऊपर से पानी देने से बचें: सॉकर होसेस या ड्रिप इरिगेशन का उपयोग करने से पर्ण सूखा रहता है, जिससे लेट ब्लाइट - और अन्य बीमारियों के फैलने में मुश्किल होती है। </string>
+    <string name="strawberry_leaf_scorch">जबकि स्ट्रॉबेरी के पौधों पर लीफ स्कॉर्च निराशाजनक हो सकता है, कुछ रणनीतियाँ हैं जो घर के माली बगीचे में इसके प्रसार को रोकने में मदद करने के लिए नियोजित कर सकते हैं। स्ट्रॉबेरी लीफ स्कॉर्च नियंत्रण का प्राथमिक साधन हमेशा रोकथाम होना चाहिए।</string>
+    <string name="tomato_bacterial_spot">जब संभव हो, रोग-मुक्त बीज और रोग-मुक्त प्रत्यारोपण का उपयोग करना, टमाटर पर बैक्टीरिया के धब्बे से बचने का सबसे अच्छा तरीका है। ग्रीनहाउस या खेत के संचालन के पास स्प्रिंकलर सिंचाई और कल्ल पाइल्स से बचने और गैर-होस्ट फसल के साथ घूमने से भी बीमारी को नियंत्रित करने में मदद मिलती है।</string>
+    <string name="tomato_early_blight">पिछले दो वर्षों में बगीचे के उस हिस्से में टमाटर लगाकर फसल चक्र का अभ्यास करें जिसका उपयोग टमाटर या सोलानेसी परिवार के किसी अन्य सदस्य, जैसे बैंगन, आलू या मिर्च को उगाने के लिए नहीं किया गया है। .\nएक टमाटर किस्म का चयन करने के लिए बीज पैकेज या पौधों के लेबल को ध्यान से पढ़ें।</string>
+    <string name="tomato_late_blight">लेट ब्लाइट फंगस की कुछ जातियों के लिए प्रतिरोधी टमाटर की किस्में उगाई जाती हैं जहां रोग नियमित रूप से होता है।\nकिसी भी पास के स्वयंसेवी टमाटर और आलू के पौधों और नाइटशेड को हटा दें।\nयह सुनिश्चित करने के लिए प्रत्यारोपण की जाँच करें कि वे लेट ब्लाइट से मुक्त हैं। रोपण से पहले।\nयदि संभव हो तो छिड़काव सिंचाई से बचें, क्योंकि यह देर से तुड़ाई के विकास का पक्षधर है।</string>
+    <string name="tomato_leaf_mold">पी. फुलफा रोगाणु संक्रमित पौधे के मलबे या मिट्टी में जीवित रह सकता है, हालांकि रोग का प्रारंभिक स्रोत अक्सर संक्रमित बीज होता है। यह रोग बारिश और हवा से, औजारों और कपड़ों पर, और कीट गतिविधि के माध्यम से फैलता है।\nउच्च तापमान के साथ उच्च सापेक्ष आर्द्रता (85% से अधिक) रोग के प्रसार को प्रोत्साहित करती है। इसे ध्यान में रखते हुए, अगर ग्रीनहाउस में टमाटर उगा रहे हैं, तो रात के तापमान को बाहरी तापमान से अधिक बनाए रखें।</string>
+
+    <string name="tomato_spetoria_leaf_spot">संक्रमित पत्तियों को हटाना। संक्रमित पत्तियों को तुरंत हटा दें, और असंक्रमित पौधों के साथ काम करने से पहले अपने हाथों और प्रूनर्स को अच्छी तरह से धोना सुनिश्चित करें।\nजैविक कवकनाशी विकल्पों पर विचार करें। कॉपर या पोटेशियम बाइकार्बोनेट युक्त कवकनाशी रोग को फैलने से रोकने में मदद करेंगे। जैसे ही पहले लक्षण दिखाई दें, छिड़काव शुरू करें और निरंतर प्रबंधन के लिए लेबल निर्देशों का पालन करें।</string>
+    <string name="tomato_target_spot">उन पुरानी फसलों के बगल में नई फसल न लगाएं जिन्हें बीमारी है।\nपपीते से जहां तक ​​संभव हो पौधे लगाएं, खासकर अगर पत्तियों में छोटे कोणीय धब्बे हों (फोटो 5)।\nनर्सरी में सभी रोपे की जांच करें , और पत्ती के धब्बे के साथ किसी को भी फेंक दें। पौधों के निचले हिस्से से कुछ शाखाओं को हटा दें ताकि आधार पर बेहतर वायु प्रवाह की अनुमति मिल सके \ n जैसे ही रोग दिखाई दे, निचली पत्तियों को हटा दें और जला दें, खासकर निचले फलों के ट्रस के बाद चुना.</string>
+    <string name="tomato_yellow_leaf_curl">टमाटर येलो लीफ कर्ल वायरस के लिए तीव्र और सटीक परीक्षण यूसी डेविस और सीडीएफए पर उपलब्ध हैं। ये परीक्षण 24 घंटे से भी कम समय में किए जा सकते हैं। TYLC जैसे लक्षणों वाले टमाटर ढूंढ़ने वाला कोई भी व्यक्ति अपने काउंटी कृषि सलाहकार, यूसी डेविस में रॉबर्ट एल गिल्बर्टसन, या सीडीएफए में टोंगयान तियान से संपर्क कर सकता है।</string>
+
+    <string name="tomato_mosaic_virus">किसी भी ऐसे पौधे को नष्ट कर दें जो बौना या विकृत दिखाई देता है और फिर औजारों और हाथों को कीटाणुरहित करता है।\nटमाटरों के आस-पास के क्षेत्र को खरपतवार से मुक्त रखें और उन क्षेत्रों को कम करने के लिए पौधों के मलबे से मुक्त रखें जहां रोग हो सकता है। संक्रमण की संभावना को कम करने के लिए कीड़ों को भी नियंत्रित करें।</string>
+    <string name="tomato_spider_mites">यदि आपके टमाटर के पौधे प्यासे हैं, तो मकड़ी के कण अंदर आ सकते हैं। मिट्टी को नम रखने के लिए नियमित रूप से पानी देने की दिनचर्या का अभ्यास करें, लेकिन जलभराव नहीं। वे अक्सर धूल भरे पौधों पर पाए जाते हैं। यदि संभव हो तो ऊपर से पौधों को पानी दें ताकि धूल और कीड़ों को इकट्ठा किया जा सके।</string>
+    <string name="grey_common_rust">ग्रे लीफ स्पॉट के लिए प्रबंधन रणनीतियों में जुताई, फसल रोटेशन और रोपण प्रतिरोधी संकर शामिल हैं।\nजब पौधों को जल्दी संक्रमित किया जाता है और पर्यावरण की स्थिति बीमारी के अनुकूल होती है, तो महत्वपूर्ण नुकसान को रोकने के लिए कवकनाशी की आवश्यकता हो सकती है।</string>
+    <string name="apple_healthy">आप अच्छे जा रहे हैं !!</string>
+    <string name="scales">1. तराजू: ये एक सख्त लेप के अंदर ढके रहते हैं जो मोमी तराजू की तरह दिखता है और पत्तियों की निचली सतह और शाखाओं की नसों को संक्रमित करता है।</string>
+    <string name="thrip">2. थ्रिप्स: ये मिनट चूसने वाले कीड़े हैं जो मुख्य रूप से कोमल पत्तियों, टहनियों और फूलों की कलियों पर हमला करते हैं, जिससे प्रभावित पौधे जले हुए रूप से कमजोर हो जाते हैं।</string>
+    <string name="aphids">3। एफिड्स: ये भूरे या हरे रंग के कीट कोमल टहनियों, पत्तियों और फूलों की कलियों से रस चूसते हैं। प्रभावित पौधा कमजोर हो जाता है और विकास में मंद हो जाता है।</string>
+
+    <string name="mealybugs">4. माइलबग्स: ये छोटे मांसल कीड़े होते हैं जो सफेद, ऊनी और मोमी स्राव से ढके रहते हैं। आम तौर पर, पुराने पौधे प्रभावित होते हैं।</string>
+    <string name="whitefiles">5. सफेद मक्खियाँ: ये छोटे कीड़े होते हैं, जो सफेद रंग के होते हैं और नम और अंधेरे परिस्थितियों में बहुत सक्रिय होते हैं।</string>
+    <string name="spider_mites">6. स्पाइडर-माइट्स: यह एक मिनट डॉट के आकार का खतरनाक, शूट चूसने वाला कीट, लाल रंग का, नग्न आंखों के लिए लगभग अदृश्य, मकड़ी जैसा दिखता है लेकिन वास्तविक मकड़ी नहीं है।</string>
+    <string name="caterpillr">7. कैटरपिलर: विभिन्न कैटरपिलर पत्ते पर फ़ीड करते हैं, वे लगातार खिलाकर पत्तियों को नुकसान पहुंचाते हैं।</string>
+    <string name="leaf_bettle">8. लीफ बीटल्स एंड वीविल्स: उड़ने वाले कीड़ों को संक्रमित करने वाले इन पत्तों को गुलाब जैसे फूलों वाले पौधों पर गंभीर कीट माना जाता है।</string>
+    <string name="cut_worms">9. कटे हुए कीड़े: यह कीड़ा मिट्टी में रहता है और जमीनी स्तर पर पौधे पर हमला करता है।</string>
+    <string name="leaf_miner">10. लीफ-माइनर: इन कीटों के लार्वा ऊतक परतों के बीच पत्तियों में मेरा मलत्याग करते हैं, पत्ती की सतह पर मल छोड़ते हैं और पत्तियों पर विशिष्ट सफेद पैटर्न बनाते हैं।</string>
+    <string name="reset">रीसेट करें</string>
+    <string name="showPrecautions">सावधानियां</string>
+    <string name="management_text">इलाज के लिए प्रबंधन बटन पर क्लिक करें</string>
+
+
+    <string name="action_search">खोज</string>
+    <string name="action_refresh">रीफ्रेश करें</string>
+    <string name="action_settings">सेटिंग</string>
+    <string name="action_about">इसके बारे में</string>
+
+    <string name="today">आज</string>
+    <string name="tomorrow">कल</string>
+    <string name="later">बाद में</string>
+
+    <string name="wind">पवन</string>
+    <string name="wind_speed">हवा की गति</string>
+    <string name="pressure">दबाव</string>
+    <string name="humidity">आर्द्रता</string>
+    <string name="sunrise">सूर्योदय</string>
+    <string name="sunset">सूर्यास्त</string>
+    <string name="uvindex">UV अनुक्रमणिका</string>
+
+    <string name="last_update">पिछली अपडेट:\n%s</string>
+    <string name="last_update_widget">\nआखिरी अपडेट: %s</string>
+
+    <string name="search_title">शहर खोजें</string>
+
+    <string name="downloading_data">अपना डेटा डाउनलोड कर रहा है...</string>
+    <string name="getting_location">अपना स्थान प्राप्त करना ...</string>
+
+    <string name="loading_data">लोड हो रहा है...</string>
+
+    <string name="error_dateFormat"> दिनांक प्रारूप त्रुटि</string>
+
+
+    <string name="setting_dateFormat">दिनांक प्रारूप</string>
+    <string name="setting_dateFormatCustom">कस्टम दिनांक प्रारूप</string>
+    <string name="setting_dateFormatCustom_summary"> उपयोग की जाने वाली कस्टम SimpleDateFormat स्ट्रिंग प्रदान करें</string>
+    <string name="setting_lengthUnits">लंबाई इकाइयाँ</string>
+    <string name="setting_speedUnits">गति इकाइयां</string>
+    <string name="setting_tempUnits">तापमान इकाइयां</string>
+    <string name="setting_showTempAsInteger">तापमान को केवल एक पूर्णांक के रूप में दिखाएं</string>
+    <string name="setting_pressureUnits">प्रेशर यूनिट्स</string>
+    <string name="setting_theme">थीम</string>
+    <string name="setting_transparent_widget">विजेट को पारदर्शी बनाएं</string>
+    <string name="setting_auto_detect_location">स्थान का पता लगाएं</string>
+    <string name="setting_differentiateDaysByTint">रंग के साथ अलग-अलग दिन</string>
+    <string name="setting_refreshInterval">बैकग्राउंड रीफ़्रेश अंतराल</string>
+    <string name="setting_unit_mps">मीटर प्रति सेकंड (m/s)</string>
+    <string name="setting_unit_kph">किलोमीटर प्रति घंटा (kph)</string>
+    <string name="setting_unit_mph">मील प्रति घंटा (mph)</string>
+    <string name="setting_unit_bft">ब्यूफोर्ट विंड स्केल (bft)</string>
+    <string name="setting_unit_kn"> समुद्री मील (kn)</string>
+    <string name="setting_wind_direction_format">पवन दिशा प्रारूप</string>
+    <string name="settings_none">कोई नहीं</string>
+    <string name="setting_apiKey">एपीआई कुंजी</string>
+    <string name="setting_apiKey_summary">OpenWeatherMap क्वेरी के लिए कस्टम API कुंजी</string>
+
+    <string name="setting_unit_Celsuis">सेल्सियस</string>
+    <string name="setting_unit_Fahrenheit">फ़ारेनहाइट</string>
+    <string name="setting_unit_Kelvin">केल्विन</string>
+
+    <string name="setting_unit_mm">मिलीमीटर (मिमी)</string>
+    <string name="setting_unit_in">इंच (इंच)</string>
+
+    <string name="setting_unit_hpa">hPa</string>
+    <string name="setting_unit_kpa">kPa</string>
+    <string name="setting_unit_mmhg">mm Hg</string>
+    <string name="setting_unit_inhg">Hg में</string>
+
+    <string name="speed_unit_mps">m/s</string>
+    <string name="speed_unit_kph">kph</string>
+    <string name="speed_unit_mph">mph</string>
+    <string name="speed_unit_kn">kn</string>
+
+    <string name="wind_direction_format_none">कोई संकेत नहीं</string>
+    <string name="wind_direction_format_arrows">तीर</string>
+    <string name="wind_direction_format_abbreviations">संक्षिप्त रूप</string>
+
+    <string name="pressure_unit_hpa">hPa</string>
+    <string name="pressure_unit_kpa">केपीए</string>
+    <string name="pressure_unit_mmhg">mm Hg</string>
+
+    <string name="setting_theme_fresh">ताज़ा</string>
+    <string name="setting_theme_classic">क्लासिक</string>
+    <string name="setting_theme_dark">ताजा गहरा</string>
+    <string name="setting_theme_classic_dark">क्लासिक डार्क</string>
+    <string name="setting_theme_black">ताज़ा काला</string>
+    <string name="setting_theme_classic_black">क्लासिक ब्लैक</string>
+
+    <string name="dialog_ok">ठीक है</string>
+    <string name="dialog_cancel">रद्द करें</string>
+
+    <string name="msg_err_parsing_json">कनेक्शन टाइमआउट।</string>
+    <string name="msg_connection_problem">आपके इंटरनेट कनेक्शन में कोई समस्या है।</string>
+    <string name="msg_connection_not_available">कनेक्शन उपलब्ध नहीं है।</string>
+    <string name="msg_city_not_found">निर्दिष्ट शहर नहीं मिला।</string>
+
+
+    <string name="weather_sunny" translatable="false">&#xf00d;</string>
+    <string name="weather_clear_night" translatable="false">&#xf02e;</string>
+    <string name="weather_foggy" translatable="false">&#xf014;</string>
+    <string name="weather_cloudy" translatable="false">&#xf013;</string>
+    <string name="weather_rainy" translatable="false">&#xf019;</string>
+    <string name="weather_snowy" translatable="false">&#xf01b;</string>
+    <string name="weather_thunder" translatable="false">&#xf01e;</string>
+    <string name="weather_drizzle" translatable="false">&#xf01c;</string>
+
+
+    <string name="wind_direction_north">N</string>
+    <string name="wind_direction_north_north_east">NNE</string>
+    <string name="wind_direction_north_east">NE</string>
+    <string name="wind_direction_east_north_east">ENE</string>
+    <string name="wind_direction_east">E</string>
+    <string name="wind_direction_east_south_east">ESE</string>
+    <string name="wind_direction_south_east">SE</string>
+    <string name="wind_direction_south_south_east">SSE</string>
+    <string name="wind_direction_south">S</string>
+    <string name="wind_direction_south_south_west">SSW</string>
+    <string name="wind_direction_south_west">SW</string>
+    <string name="wind_direction_west_south_west">WSW</string>
+    <string name="wind_direction_west">W</string>
+    <string name="wind_direction_west_north_west">WNW</string>
+    <string name="wind_direction_north_west">NW</string>
+    <string name="wind_direction_north_north_west">NNW</string>
+    <string name="msg_too_many_requests">बहुत अधिक अनुरोध। कृपया पुन: प्रयास करें।</string>
+
+
+    <string name="dash_clock_status">%1$s%2$s</string>
+    <string name="dash_clock_expanded_title">%1$s%2$s - %3$s</string>
+    <string name="dash_clock_expanded_body">%1$s, %2$s\nपवन: %3$s %4$s\nदबाव: %5$s %6$s\nआर्द्रता: %7$s %%\n </string>
+    <string name="settings_title_units">इकाइयाँ</string>
+    <string name="settings_title_display">डिस्प्ले</string>
+    <string name="settings_title_data">डेटा</string>
+    <string name="setting_displayDecimalZeroes">दशमलव शून्य प्रदर्शित करें</string>
+    <string name="settings_title_location">स्थान</string>
+    <string name="setting_update_location_automatically">पृष्ठभूमि में स्थान अपडेट करें</string>
+
+    <string name="location_settings">स्थान सेटिंग</string>
+    <string name="location_settings_message">स्थान सक्षम नहीं है। क्या आप सेटिंग मेनू में जाना चाहते हैं?</string>
+    <string name="location_settings_button">सेटिंग</string>
+    <string name="action_weather_map">मौसम मानचित्र</string>
+    <string name="rain">बारिश</string>
+    <string name="temperature">तापमान</string>
+    <string name="action_graphs">ग्राफ़</string>
+    <string name="hello_blank_fragment">नमस्कार रिक्त टुकड़ा</string>
+    <string name="app_sign_name">वेदरकास्ट</string>
+
+
+    <string name="pref_previously_started" />
+
+    <string name="permission_request_denied">अनुमति अनुरोध अस्वीकृत</string>
+    <string name="error_gif">x या y बाउंड आकार कम से कम %1$dpx होना चाहिए और फ़ाइल का आकार %2$sM से अधिक नहीं होना चाहिए</string>
+    <string name="button_sure_default">हो गया</string>
+    <string name="button_sure">बाहर निकलें</string>
+    <string name="button_preview">पिन करें</string>
+    <string name="write_your_enquiry">अपनी पूछताछ लिखें...</string>
+    <string name="look_deep_into_nature">प्रकृति में गहराई से देखें</string>
+    <string name="no_query_found_create_one">कोई क्वेरी नहीं मिली। एक बनाएं।</string>
+    <string name="take_action">कार्रवाई करें</string>
+    <string name="your_crop_is">आपकी फसल है:</string>
+    <string name="_24_c">24*C</string>
+    <string name="suitable_weather">उपयुक्त मौसम</string>
+    <string name="more">अधिक ..</string>
+    <string name="culture">संस्कृति</string>
+    <string name="details">विवरण</string>
+    <string name="crop_name">फसल का नाम</string>
+    <string name="scientific_name">वैज्ञानिक नाम</string>
+    <string name="hi_there">नमस्कार </string>
+    <string name="welcome_to_samadhaan">समाधान में आपका स्वागत है</string>
+    <string name="get_started">आरंभ करें</string>
+    <string name="your_flower_is">आपका फूल है:</string>
+    <string name="click_on_the_result_to_know_more">अधिक जानने के लिए परिणाम पर क्लिक करें..</string>
+    <string name="forgot_password_txt">पासवर्ड भूल गए हैं</string>
+    <string name="send_instructions">निर्देश भेजें</string>
+    <string name="graph">ग्राफ</string>
+    <string name="let_s_log_in">चलो लॉग इन करें</string>
+    <string name="welcome_back_nyou_ve_been_missed">वापस स्वागत है।\nआप चूक गए हैं!</string>
+    <string name="show_password">पासवर्ड दिखाएं</string>
+    <string name="don_t_have_an_account">क्या आपका कोई खाता नहीं है?</string>
+    <string name="log_in">लॉग इन करें</string>
+    <string name="detect_disease_from_your_crop">अपनी फसल से बीमारी का पता लगाएं</string>
+    <string name="take_a_picture">एक तस्वीर लें</string>
+    <string name="get_the_result">परिणाम प्राप्त करें</string>
+    <string name="get_ndiagnosis">\nनिदान प्राप्त करें</string>
+    <string name="identify_crop_by_leaf">पत्ती द्वारा फसल की पहचान करें</string>
+    <string name="take_a_leaf_picture">पत्ती का चित्र लें</string>
+    <string name="identify_flower">फूल की पहचान करें</string>
+    <string name="take_a_flower_picture">एक फूल की तस्वीर लें</string>
+    <string name="location">LOCATION</string>
+
+    <string name="change_language"><u>Change Language</u></string>
+
+
+    <string name="posted_by">द्वारा पोस्ट किया गया:</string>
+    <string name="user_name">उपयोगकर्ता नाम</string>
+    <string name="title_here">शीर्षक यहां</string>
+    <string name="comments">टिप्पणियां</string>
+    <string name="type_something">कुछ लिखें..</string>
+    <string name="create_account">खाता बनाएं।</string>
+    <string name="upload_image">छवि अपलोड करें</string>
+    <string name="already_have_an_account">क्या आपके पास पहले से ही एक खाता है?</string>
+    <string name="register">रजिस्टर करें</string>
+    <string name="we_have_sent_instructions_to">हमने यहां निर्देश भेजे हैं:</string>
+    <string name="back_to_log_in">लॉग इन पर वापस जाएं</string>
+    <string name="havent_s_received_an_email_check_your_spam_filter_or_copy">क्या आपको कोई ईमेल प्राप्त हुआ है? अपना स्पैम फ़िल्टर जांचें या कॉपी करें</string>
+    <string name="plant_care">पौधों की देखभाल</string>
+    <string name="_05_44_pm">शाम 05:44</string>
+    <string name="date">14/05/2020</string>
+    <string name="weather_check">मौसम जांच</string>
+    <string name="next">अगला</string>
+    <string name="more_info">अधिक जानकारी</string>
+    <string name="wwqq">wwqq</string>
+    <string name="crop_title">फसल शीर्षक</string>
+    <string name="crop_description">फसल विवरण</string>
+    <string name="_0_c">0 °C</string>
+    <string name="city_name_ab">शहर का नाम, AB</string>
+    <string name="wind_0_m_s">पवन: 0 m/s</string>
+    <string name="दबाव_0_hpa">दबाव: 0 hpa</string>
+    <string name="humidity_0">आर्द्रता: 0%</string>
+    <string name="sunrise_00_00">सूर्योदय: 00:00</string>
+    <string name="sunset_00_00">सूर्यास्त: 00:00</string>
+    <string name="locations">स्थान</string>
+    <string name="c">सी</string>
+    <string name="textview">TextView</string>
+    <string name="des">des</string>
+    <string name="create_your_enquiry">अपनी पूछताछ बनाएं</string>
+    <string name="enquiry_title">पूछताछ शीर्षक..</string>
+    <string name="write_s_your_enquiry">अपनी पूछताछ लिखें?</string>
+    <string name="post">पोस्ट करें</string>
+    <string name="post_title"> शीर्षक पोस्ट करें</string>
+    <string name="text_comment_goes_here">पाठ टिप्पणी यहां जाती है</string>
+    <string name="_10_20">10:20</string>
+    <string name="choose_language">अपनी भाषा चुनें</string>
+
+</resources>
